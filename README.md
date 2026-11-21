@@ -1,6 +1,6 @@
 # Estudo de Caso — Deitel Messenger e Buffer Seguro (Java)
 
-Projeto prático desenvolvido para a disciplina de **Sistemas Operacionais** (IFSP — Campus Hortolândia), ministrada pelo Prof. Carlos Pagani.
+Projeto prático desenvolvido para a disciplina de **Sistemas Operacionais** (IFSP - Campus Hortolândia), ministrada pelo Prof. Carlos Pagani.
 
 **Integrantes:** Isabella Maria, Júlia Testa e Vivian Carazzatto.
 
